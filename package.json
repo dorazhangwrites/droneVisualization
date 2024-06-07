@@ -1,0 +1,19 @@
+{
+  "name": "huggingface-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leyi Zhang",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
